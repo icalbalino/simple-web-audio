@@ -1,6 +1,6 @@
 let audioContext;
 let audio;
-let sound = "./audio/piano.mp3";
+let sound = "../audio/piano.mp3";
 
 function setup() {
     let con = document.querySelector('div.div1');

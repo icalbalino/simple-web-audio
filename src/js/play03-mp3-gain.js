@@ -1,7 +1,7 @@
 let audioContext;
 let audio;
 let gainNode;
-let sound = "./audio/firefl!es-broken.mp3";
+let sound = "../audio/firefl!es-broken.mp3";
 
 function setup() {
     let con = document.querySelector('div.div1');

@@ -1,6 +1,6 @@
 let audioContext;
 let audioBuffer;
-let sound = "./audio/chime.mp3";
+let sound = "../audio/chime.mp3";
 
 function setup() {
     let con = document.querySelector('div.div1');
